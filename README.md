@@ -18,6 +18,8 @@
 ---
 
 ## 2. 온라인 코드 리뷰
+**참고** : https://github.com/Java-Algorithm-Study/algorithm-problems/pulls?q=is%3Apr+is%3Aclosed
+
 ```
 문제 : 알고스팟 예시문제 2~3문제
 기간 : 매주 목요일 까지
@@ -107,4 +109,3 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
 
 ## 5. 깃허브 모바일 알람 설정
 https://dustjq1004.github.io/colab/2023-12-26-github-notification-setting/
-
